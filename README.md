@@ -36,3 +36,7 @@ Luego, el programa generará un archivo PNG con el código QR y lo guardará en 
 ### Licencia 📝
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## 🤝 **Contacto**
+Creado con ❤️ por [SwiftDesk](https://github.com/swiftdeskk).  
+Si tienes dudas o sugerencias, no dudes en escribirme.
