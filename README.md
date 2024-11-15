@@ -25,7 +25,7 @@ Para ejecutar este programa, necesitas tener instalado Python 3 y la librería `
 pip install qrcode[pil]
 ```
 
-### Ejemplo de uso 💻
+## Ejemplo de uso 💻
 
 Al ejecutar el programa, te pedirá que ingreses un texto o enlace. Por ejemplo:
 ```bash
@@ -33,7 +33,7 @@ Ingresa el enlace o texto para generar el QR: https://www.ejemplo.com
 ```
 Luego, el programa generará un archivo PNG con el código QR y lo guardará en la carpeta `output`.
 
-### Licencia 📝
+## Licencia 📝
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
